@@ -11,5 +11,5 @@ O frontend foi desenvolvido em React, para o backend utilizou-se nodejs e o serv
 
 ### Projeto ###
 
-Para verificar como ficou o projeto [clique aqui.] (https://jobsnetcadastro.herokuapp.com/)
+Para verificar como ficou o projeto [clique aqui.](https://jobsnetcadastro.herokuapp.com/)
 
