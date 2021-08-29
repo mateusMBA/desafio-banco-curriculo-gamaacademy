@@ -1,3 +1,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = https://github.com/mateusMBA/sistema-cadastro-curriculo-backend
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/mateusMBA/sistema-cadastro-currculo-frontend
